@@ -34,7 +34,7 @@ This project implements a portfolio risk model in Python to quantify the market 
 Install the required libraries using:
 
 ```bash
-pip install pandas numpy yfinance matplotlib scipy
+pip install pandas numpy yfinance matplotlib 
 ```
 
 ## Usage
