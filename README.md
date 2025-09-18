@@ -1,6 +1,3 @@
-Sure! Here's a clean and clear README file template for your **Portfolio Risk Modeling with Value at Risk (VaR)** project:
-
----
 
 # Portfolio Risk Modeling with Value at Risk (VaR)
 
